@@ -1,6 +1,7 @@
 import java.sql.*;
+import java.sql.Date;
 import java.util.Calendar;
-import javax.swing;
+import javax.swing.*;
 
 public class Main {
     private static final String PROTOCOL = "jdbc:postgresql://";        // URL-prefix
